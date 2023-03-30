@@ -96,12 +96,12 @@ PowerShell :
 
 |SHA256	|Operating System|Installer SHA256|FileName|Virus Total|
 |:------|:---------------|:---------------|:-------|:----------|
-|dde03348075512796241389dfea5560c20a3d2a2eac95c894e7bbed5e85a0acc|	Windows	|aa124a4b4df12b34e74ee7f6c683b2ebec4ce9a8edcf9be345823b4fdcf5d868|	3cxdesktopapp-18.12.407.msi|	Virus Total Link
-|fad482ded2e25ce9e1dd3d3ecc3227af714bdfbbde04347dbc1b21d6a3670405|	Windows	|59e1edf4d82fae4978e97512b0331b7eb21dd4b838b850ba46794d9c7a2c0983|	3cxdesktopapp-18.12.416.msi|	Virus Total Link
-|11be1803e2e307b647a8a7e02d128335c448ff741bf06bf52b332e0bbf423b03|	Windows	||d3dcompiler_47.dll|	Virus Total Link
-|7986bbaee8940da11ce089383521ab420c443ab7b15ed42aed91fd31ce833896|	Windows	||ffmpeg.dll|	Virus Total Link
-|92005051ae314d61074ed94a52e76b1c3e21e7f0e8c1d1fdd497a006ce45fa61|	macOS	|5407cda7d3a75e7b1e030b1f33337a56f293578ffa8b3ae19c671051ed314290|	3CXDesktopApp-18.11.1213.dmg|	Virus Total Link
-|b86c695822013483fa4e2dfdf712c5ee777d7b99cbad8c2fa2274b133481eadb|	macOS	|e6bbc33815b9f20b0cf832d7401dd893fbc467c800728b5891336706da0dbcec|	3cxdesktopapp-latest.dmg|	Virus Total Link
+|dde03348075512796241389dfea5560c20a3d2a2eac95c894e7bbed5e85a0acc|	Windows	|aa124a4b4df12b34e74ee7f6c683b2ebec4ce9a8edcf9be345823b4fdcf5d868|	3cxdesktopapp-18.12.407.msi| https://www.virustotal.com/gui/file/aa124a4b4df12b34e74ee7f6c683b2ebec4ce9a8edcf9be345823b4fdcf5d868
+|fad482ded2e25ce9e1dd3d3ecc3227af714bdfbbde04347dbc1b21d6a3670405|	Windows	|59e1edf4d82fae4978e97512b0331b7eb21dd4b838b850ba46794d9c7a2c0983|	3cxdesktopapp-18.12.416.msi| https://www.virustotal.com/gui/file/59e1edf4d82fae4978e97512b0331b7eb21dd4b838b850ba46794d9c7a2c0983
+|11be1803e2e307b647a8a7e02d128335c448ff741bf06bf52b332e0bbf423b03|	Windows	||d3dcompiler_47.dll | https://www.virustotal.com/gui/file/11be1803e2e307b647a8a7e02d128335c448ff741bf06bf52b332e0bbf423b03
+|7986bbaee8940da11ce089383521ab420c443ab7b15ed42aed91fd31ce833896|	Windows	||ffmpeg.dll| https://www.virustotal.com/gui/file/7986bbaee8940da11ce089383521ab420c443ab7b15ed42aed91fd31ce833896
+|92005051ae314d61074ed94a52e76b1c3e21e7f0e8c1d1fdd497a006ce45fa61|	macOS	|5407cda7d3a75e7b1e030b1f33337a56f293578ffa8b3ae19c671051ed314290|	3CXDesktopApp-18.11.1213.dmg| https://www.virustotal.com/gui/file/5407cda7d3a75e7b1e030b1f33337a56f293578ffa8b3ae19c671051ed314290
+|b86c695822013483fa4e2dfdf712c5ee777d7b99cbad8c2fa2274b133481eadb|	macOS	|e6bbc33815b9f20b0cf832d7401dd893fbc467c800728b5891336706da0dbcec|	3cxdesktopapp-latest.dmg| https://www.virustotal.com/gui/file/e6bbc33815b9f20b0cf832d7401dd893fbc467c800728b5891336706da0dbcec
 
 
 
