@@ -9,20 +9,20 @@ This ICO will help to define if you have install the corrupted version
 ===============
 
 
-###Corrupted version
+### Corrupted version
 
 
 
-Windows: 18.12.407 and 18.12.416 for
+Windows: **18.12.407** and **18.12.416**
 
 
-MacOS : 18.11.1213
+MacOS : **18.11.1213**
 
 
 ================
 
 
-###Recommandation :
+### Recommandation :
 
 
 Uninstall the produit with control panel on windows or see the script posted above
@@ -92,7 +92,7 @@ PowerShell :
 
 
 
-#General ICOs
+# General ICOs
 
 |SHA256	|Operating System|Installer SHA256|FileName|Virus Total|
 |:------|:---------------|:---------------|:-------|:----------|
@@ -105,14 +105,14 @@ PowerShell :
 
 
 
-#Other ICOs
+# Other ICOs
 
 
 
 |Domain name|String|Email|
 |:------|:---------------|:---------------|
-akamaicontainer[.]com|	(Base64) $KQAAAKg+dTjCD1DLped3aAe8CookwQWzhaбsxQrtzFo3oPSeis4u0W+4SML2v0u+AMgvjGSHFffy4wmikaas64EHqK9161fil/ZtsXN3hBAZac9JzxGG2dtyPWMMSVxiWkg7HgVfpCU=	|cliegogarcia@proton[.]me|philip.je@proton[.]me|
-akamaitechcloudservices[.]com|
+akamaicontainer[.]com|	(Base64) $KQAAAKg+dTjCD1DLped3aAe8CookwQWzhaбsxQrtzFo3oPSeis4u0W+4SML2v0u+AMgvjGSHFffy4wmikaas64EHqK9161fil/ZtsXN3hBAZac9JzxGG2dtyPWMMSVxiWkg7HgVfpCU=|cliegogarcia@proton[.]me|philip.je@proton[.]me|
+akamaitechcloudservices[.]com| | philip[.]je@proton[.]me|
 azuredeploystore[.]com|	
 azureonlinecloud[.]com|	
 azureonlinestorage[.]com|	
