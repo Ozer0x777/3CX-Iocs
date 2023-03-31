@@ -29,6 +29,7 @@ The Version **18.12.422** Windows and MacOS is considered unsafe by Google Chrom
 This still recomanded to use de PAW version
 
 Source : https://www.3cx.com/blog/news/chrome-blocks-latest-msi/
+
 ===============
 
 ### Corrupted version
