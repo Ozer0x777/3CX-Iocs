@@ -2,6 +2,8 @@ Hello
 
 I see a lot panic so i hope this IOCs will help you, please be patient and wait for more information from 3cx
 
+===============
+
 ### Old clean version : 
 
 Windows: **18.11.1213** 
