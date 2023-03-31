@@ -79,7 +79,7 @@ Check the documentation here : https://www.3cx.com/blog/releases/web-client-pwa/
 |Hash SHA-256/SHA-1|Filename|Signed by|Virus Total Link|
 |:------|:---------------|:---------------|:-------|
 |5d99efa36f34aa6b43cd81e77544961c5c8d692c96059fef92c2df2624550734|	3CXDesktopApp.exe|	3CX Ltd| [Link](https://www.virustotal.com/gui/file/5d99efa36f34aa6b43cd81e77544961c5c8d692c96059fef92c2df2624550734)
-|14075c5c8c373be373e51dbea7f6e5cd8087ab0a|	3CXDesktopApp.exe|	N/A| 
+|14075c5c8c373be373e51dbea7f6e5cd8087ab0a|	3CXDesktopApp.exe|	N/A|   N/A
 |dde03348075512796241389dfea5560c20a3d2a2eac95c894e7bbed5e85a0acc|	3CXDesktopApp.exe|	3CX Ltd| [Link](https://www.virustotal.com/gui/file/dde03348075512796241389dfea5560c20a3d2a2eac95c894e7bbed5e85a0acc) | 
 |fad482ded2e25ce9e1dd3d3ecc3227af714bdfbbde04347dbc1b21d6a3670405|	3CXDesktopApp.exe|	3CX Ltd| [Link](https://www.virustotal.com/gui/file/fad482ded2e25ce9e1dd3d3ecc3227af714bdfbbde04347dbc1b21d6a3670405) | 
 |92005051ae314d61074ed94a52e76b1c3e21e7f0e8c1d1fdd497a006ce45fa61|	3CX Desktop App (MacOS)|	No sign| [Link](https://www.virustotal.com/gui/file/92005051ae314d61074ed94a52e76b1c3e21e7f0e8c1d1fdd497a006ce45fa61) | 
