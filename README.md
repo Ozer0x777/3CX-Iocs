@@ -43,6 +43,10 @@ For installing the PWA you need to use Edge Chromium or Google Chrome
 
 Check the documentation here : https://www.3cx.com/blog/releases/web-client-pwa/
 
+Or install the new and clean version
+
+
+
 ================
 
 ### Script to help you 
