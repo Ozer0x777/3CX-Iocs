@@ -14,7 +14,7 @@ MacOS : **18.10.461**
 
 ### New clean version 31/03/2023 12h00: 
 
-**Windows**: **18.12.422*
+**Windows**: **18.12.422**
 **MacOS** : **18.12.422**
 
 Windows: https://downloads-global.3cx.com/downloads/v180/templates/clients/3CXDesktopApp-18.12.422.msi
