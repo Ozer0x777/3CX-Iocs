@@ -1,6 +1,7 @@
 Hello
 
 I see a lot panic so i hope this IOCs will help you, please be patient and wait for more information from 3cx
+
 You will found here everything i can do to help you, Script, IOC's, information, comunication and link about this attack
 
 ===============
