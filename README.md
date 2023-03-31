@@ -22,6 +22,13 @@ Mac: https://downloads-global.3cx.com/downloads/v180/templates/clients/3CXDeskto
 
 Source : https://www.3cx.com/blog/news/desktopapp-security-alert-updates/
 
+### **Important note**
+
+The Version **18.12.422** Windows and MacOS is considered unsafe by Google Chrome beacause 3Cx used the compromised certificat to build it
+3Cx will be bulid a new verson with a new cetificat and this build will be checked by mandiant before they publish it
+This still recomanded to use de PAW version
+
+Source : https://www.3cx.com/blog/news/chrome-blocks-latest-msi/
 ===============
 
 ### Corrupted version
@@ -46,6 +53,13 @@ Check the documentation here : https://www.3cx.com/blog/releases/web-client-pwa/
 Or install the new and clean version
 
 
+### **Important note**
+
+The Version **18.12.422** Windows and MacOS is considered unsafe by Google Chrome beacause 3Cx used the compromised certificat to build it
+3Cx will be bulid a new verson with a new cetificat and this build will be checked by mandiant before they publish it
+This still recomanded to use de PAW version
+
+Source : https://www.3cx.com/blog/news/chrome-blocks-latest-msi/
 
 ================
 
