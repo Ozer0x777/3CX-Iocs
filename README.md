@@ -116,8 +116,7 @@ Or install the new and clean version
 |11be1803e2e307b647a8a7e02d128335c448ff741bf06bf52b332e0bbf423b03|	d3dcompiler_47.d11|	No sign|  [Link](https://www.virustotal.com/gui/file/11be1803e2e307b647a8a7e02d128335c448ff741bf06bf52b332e0bbf423b03) | 
 |7986bbaee8940da11ce089383521ab420c443ab7b15ed42aed91fd31ce833896|	ffmpeg.dII| No sign|  [Link](https://www.virustotal.com/gui/file/7986bbaee8940da11ce089383521ab420c443ab7b15ed42aed91fd31ce833896) | 
 a64fa9f1c76457ecc58402142a8728ce34ccba378c17318b3340083eeb7acc67  | 	libffmpeg.dylib  | 	No sign | [Link](https://www.virustotal.com/gui/file/a64fa9f1c76457ecc58402142a8728ce34ccba378c17318b3340083eeb7acc67)
-9e9a5f8d86356796162cee881c843cde9eaedfb3 | 	UpdateAgent	 | No sign
-
+9e9a5f8d86356796162cee881c843cde9eaedfb3 | 	UpdateAgent	 | No sign| N/A
 
 # Domain ICOs
 
