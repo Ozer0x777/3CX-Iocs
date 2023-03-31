@@ -28,7 +28,7 @@ Source : https://www.3cx.com/blog/news/desktopapp-security-alert-updates/
 
 Windows: **18.12.407** and **18.12.416**
 
-MacOS : **18.11.1213**
+MacOS : **18.11.1213** and **18.12.416**
 
 ================
 
