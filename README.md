@@ -1,6 +1,7 @@
 Hello
 
 I see a lot panic so i hope this IOCs will help you, please be patient and wait for more information from 3cx
+You will found here everything i can do to help you, Script, IOC's, information, comunication and link about this attack
 
 ===============
 
@@ -10,7 +11,10 @@ Windows: **18.11.1213**
 MacOS : **18.10.461**
 
 **Windows**: https://downloads-global.3cx.com/downloads/v180/templates/clients/3CXDesktopApp-18.11.1213.msi
+
 **Mac**: https://downloads-global.3cx.com/downloads/v180/templates/clients/3CXDesktopApp-18.10.461.dmg
+
+===============
 
 ### New clean version - Updated on 31/03/2023: 
 
