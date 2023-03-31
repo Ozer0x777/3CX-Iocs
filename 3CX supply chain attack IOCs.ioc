@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ioc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="0682886e-5872-4d08-8a5c-1f0b284d93df" last-modified="2023-03-31T09:30:54" xmlns="http://schemas.mandiant.com/2010/ioc">
+  <short_description>3CX supply chain attack IOCs</short_description>
+  <description>IOC's for 3CX supply chain attack</description>
+  <authored_by>Ozer0x777 </authored_by>
+  <authored_date>2023-03-31T09:15:42</authored_date>
+  <links />
+  <definition>
+    <Indicator operator="OR" id="597d2ad1-ea72-4138-acf1-fb62bc6c2c17">
+      <IndicatorItem id="e61782bb-15d7-40a1-ae6b-a9746c0ad27d" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">5d99efa36f34aa6b43cd81e77544961c5c8d692c96059fef92c2df2624550734</Content>
+      </IndicatorItem>
+      <IndicatorItem id="1cb56ecf-62ab-4ee3-8824-10a8b0f21607" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">dde03348075512796241389dfea5560c20a3d2a2eac95c894e7bbed5e85a0acc</Content>
+      </IndicatorItem>
+      <IndicatorItem id="36694caf-9123-4b05-90d7-e51c2c7eea9c" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">fad482ded2e25ce9e1dd3d3ecc3227af714bdfbbde04347dbc1b21d6a3670405</Content>
+      </IndicatorItem>
+      <IndicatorItem id="9ef14a83-aae5-47bd-8dc7-f15f80e897d9" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">92005051ae314d61074ed94a52e76b1c3e21e7f0e8c1d1fdd497a006ce45fa61</Content>
+      </IndicatorItem>
+      <IndicatorItem id="918bc322-316f-43ed-be41-cbd8fef3d59e" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">b86c695822013483fa4e2dfdf712c5ee777d7b99cbad8c2fa2274b133481eadb</Content>
+      </IndicatorItem>
+      <IndicatorItem id="43ae497a-53e0-42eb-ba44-43de370f35a0" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">aa124a4b4df12b34e74ee7f6c683b2ebec4ce9a8edcf9be345823b4fdcf5d868</Content>
+      </IndicatorItem>
+      <IndicatorItem id="5c1a47f4-9cb1-4f5a-bb21-6c24713768fe" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">59e1edf4d82fae4978e97512b0331b7eb21dd4b838b850ba46794d9c7a2c0983</Content>
+      </IndicatorItem>
+      <IndicatorItem id="0b273d63-c318-42f4-94a5-08f4358eeddf" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">5407cda7d3a75e7b1e030b1f33337a56f293578ffa8b3ae19c671051ed314290</Content>
+      </IndicatorItem>
+      <IndicatorItem id="5fc1c9ed-cf7e-44d3-a43d-bb0c6c910f4e" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">e6bbc33815b9f20b0cf832d7401dd893fbc467c800728b5891336706da0dbcec</Content>
+      </IndicatorItem>
+      <IndicatorItem id="e16de069-1335-4f9b-b493-86c7628d23f2" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">11be1803e2e307b647a8a7e02d128335c448ff741bf06bf52b332e0bbf423b03</Content>
+      </IndicatorItem>
+      <IndicatorItem id="2c4d9d62-ae21-4b8f-94c1-f846f4960853" condition="is">
+        <Context document="FileItem" search="FileItem/Sha256sum" type="mir" />
+        <Content type="string">7986bbaee8940da11ce089383521ab420c443ab7b15ed42aed91fd31ce833896</Content>
+      </IndicatorItem>
+      <IndicatorItem id="e2dfa97c-9abf-4369-9375-c88e9d4806b5" condition="is">
+        <Context document="FileItem" search="FileItem/Sha1sum" type="mir" />
+        <Content type="string">14075c5c8c373be373e51dbea7f6e5cd8087ab0a</Content>
+      </IndicatorItem>
+      <IndicatorItem id="36e09434-31c3-423b-a02b-f7313f083c2f" condition="is">
+        <Context document="FileItem" search="FileItem/Sha1sum" type="mir" />
+        <Content type="string">cad1120d91b812acafef7175f949dd1b09c6c21a</Content>
+      </IndicatorItem>
+    </Indicator>
+  </definition>
+</ioc>
