@@ -134,5 +134,28 @@ visualstudiofactory[.]com|
 zacharryblogs[.]com|	
 github[.]com/IconStorages/images|	
 	
+Domaine| Registrar| Creation Date|IP |
+:------|:---------------|:---------------|:---------------|
+akamaicontainer[.]com| Namecheap| 22/02/2022 01:29| 162[.]0.229.159|
+akamaitechcloudservices[.]com| Namecheap| 04/01/2023 00:00| 199[.]188.206.6| 
+azuredeploystore[.]com| Namesilo| 07/12/2022 00:00| 199[.]33.112.228|
+azureonlinecloud[.]com| Namecheap| 22/02/2022 00:13| 198[.]54.115.169|
+22612azureonlinestorage[.]com| PublicDomainRegistry| 05/01/2023 00:00| 91[.]235.116.231| 
+dunamistrd[.]com| Namecheap| 06/12/2022 00:00| 198[.]54.115.59|
+glcloudservice[.]com| Namecheap| 06/01/2023 00:00| 198[.]54.125.101|
+journalide[.]org| Namecheap| 08/04/2022 02:33| 172[.]93.201.88|
+msedgepackageinfo[.]com| Namesilon| 05/01/2023 00:00| 185[.]38.151.11|
+msstorageazure[.]com| Namecheap| 17/11/2022 00:00| 162[.]213.255.22|
+msstorageboxes[.]com| Namecheap| 09/12/2022 00:00| 162[.]213.255.24|
+officeaddons[.]com| Namecheap| 09/12/2022 00:00| 162[.]213.255.24|
+officestoragebox[.]com| Namecheap| 17/11/2022 00:00| 162[.]213.255.23|
+pbxcloudeservices[.]com| PublicDomainRegistry| 23/12/2022 00:00| 91[.]235.116.231|
+pbxphonenetwork[.]com| Namesilo| 25/12/2022 00:00| 89[.]45.67.160|
+pbxsources[.]com| Namecheap| 04/01/2023 00:00| 198[.]54.116.74|
+qwepoi123098[.]com| Namecheap| 17/11/2022 00:00| 146[.]70.87.109|
+sbmsa[.]wiki| Namecheap| 09/02/2023 00:00| 198[.]54.114.192|
+sourceslabs[.]com| Enom| 09/12/2022 00:00| 185[.]244.151.84|
+Soyoungjun[.]com| PublicDomainRegistry| 19/10/2022 00:00| 139[.]162.103.172|
+visualstudiofactory[.]com| Namecheap| 17/11/2022 00:00| 162[.]213.255.24|
+zacharryblogs[.]com| Namecheap| 13/12/2022 00:00| 198[.]54.115.118|
 
-I will updated this read with futur update
