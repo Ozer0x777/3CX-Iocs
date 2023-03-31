@@ -22,11 +22,11 @@ MacOS : **18.10.461**
 Windows: **18.12.422**
 MacOS : **18.12.422**
 
-Windows: https://downloads-global.3cx.com/downloads/v180/templates/clients/3CXDesktopApp-18.12.422.msi
+**Windows**: https://downloads-global.3cx.com/downloads/v180/templates/clients/3CXDesktopApp-18.12.422.msi
 
-Mac: https://downloads-global.3cx.com/downloads/v180/templates/clients/3CXDesktopApp-18.12.422.dmg
+**Mac**: https://downloads-global.3cx.com/downloads/v180/templates/clients/3CXDesktopApp-18.12.422.dmg
 
-Source : https://www.3cx.com/blog/news/desktopapp-security-alert-updates/
+**Source** : https://www.3cx.com/blog/news/desktopapp-security-alert-updates/
 
 ### **Important note**
 
@@ -34,7 +34,7 @@ The Version **18.12.422** Windows and MacOS is considered unsafe by Google Chrom
 3Cx will be bulid a new verson with a new cetificat and this build will be checked by mandiant before they publish it
 This still recomanded to use de PAW version
 
-Source : https://www.3cx.com/blog/news/chrome-blocks-latest-msi/
+**Source** : https://www.3cx.com/blog/news/chrome-blocks-latest-msi/
 
 ===============
 
